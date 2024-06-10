@@ -10,9 +10,13 @@ Real-time digit recognition from user input or image files.
 
 ## Technologies Used
 Python: The primary programming language used for the project.
+
 TensorFlow/Keras: Used for building and training the neural network model.
+
 OpenCV: Used for image processing tasks.
+
 NumPy: Used for numerical operations and array manipulations.
+
 Matplotlib: Employed for visualizing the results and plotting graphs.
 
 # Thank you for exploring the "Handwritten digit recognition system"!
